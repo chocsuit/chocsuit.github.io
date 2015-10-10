@@ -255,7 +255,7 @@ ViewGroup和Touch事件相关的方法比起View多了一个onInterceptTouchEven
     }
 但是它的注释却长的吓人：
 
-![](https://github.com/helloyingying/helloyingying.github.io/blob/master/assets/image/onInterceptTouchEvent.png)
+![]({{site.BASE_PATH}}/assets/image/onInterceptTouchEvent.png)
 
 用一段测试程序来说明这些流程，假设有一个ViewGroup比如FrameLayout，里面包含了一个Button。
 
@@ -368,7 +368,7 @@ MyFrameLayout的代码如下:
 
 去ViewGroup的dispatchTouchEvent方法一探究竟（代码过长只说部分代码和结论，有兴趣直接看源码）：
 
-![](https://github.com/techsummary/techsummary.github.io/blob/master/assets/image/dispatch_intercept.png)
+![]({{site.BASE_PATH}}/assets/image/dispatch_intercept.png)
 
 结论：
 
