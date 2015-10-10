@@ -368,7 +368,7 @@ MyFrameLayout的代码如下:
 
 去ViewGroup的dispatchTouchEvent方法一探究竟（代码过长只说部分代码和结论，有兴趣直接看源码）：
 
-![](https://github.com/techsummary/techsummary.github.io/tree/master/assets/image/dispatch_intercept.png)
+![](https://github.com/techsummary/techsummary.github.io/blob/master/assets/image/dispatch_intercept.png)
 
 结论：
 
