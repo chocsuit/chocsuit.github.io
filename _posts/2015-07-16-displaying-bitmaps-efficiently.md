@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015 07 16 Displaying Bitmaps Efficiently"
+title: "Displaying Bitmaps Efficiently"
 description: "Google官方教程学习笔记"
 category: Android
 tags: [Android, Bitmap, Memory]
