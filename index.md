@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tech Summary!
-tagline: 一个代码痴汉的自白
+title: Choc Suit
+tagline: 
 ---
 {% include JB/setup %}
     
